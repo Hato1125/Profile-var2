@@ -1,0 +1,15 @@
+.content{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    background-color: rgba(40, 40, 45, 0.5);
+    backdrop-filter: blur(10px);
+    border-radius: 5px;
+}
+
+.content-inside{
+    padding: 20px;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}

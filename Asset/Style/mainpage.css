@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("/Asset/Image/quantum-gradient.png");
+    background-size: cover;
+}
+
+.icon{
+    margin: 50px;
+    width: 20%;
+    border-radius: 360px;
+    box-shadow: 2px 0px 5px 0px rgba(0, 0, 0, 0.2)
+}
