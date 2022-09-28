@@ -32,3 +32,15 @@ body {
     text-align: center;
     color: white;
 }
+
+.sns-table{
+    margin: 15px auto;
+}
+
+.sns-icon{
+    width: 27%;
+    height: 27%;
+    margin: 10px auto;
+    border-radius: 360px;
+    box-shadow: 2px 0px 5px 0px rgba(0, 0, 0, 0.2)
+}
