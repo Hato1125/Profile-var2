@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&family=Kiwi+Maru:wght@500&display=swap');
 
 p{
-    font-size: 17px;
+    font-size: 16px;
 }
 
 h1{
@@ -21,7 +21,7 @@ h3{
     width: 80%;
     height: auto;
     margin: 50px auto;
-    background-color: rgba(40, 40, 45, 0.35);
+    background-color: rgba(255, 255, 255, 0.03);
     backdrop-filter: blur(10px);
     border-radius: 5px;
 }
@@ -29,6 +29,21 @@ h3{
 .content-inside{
     padding: 20px;
     font-family: 'Kiwi Maru', serif;
+    text-align: center;
+    color: white;
+}
+
+.assert {
+    width: 100%;
+    height: auto;
+    background-color: rgba(255, 40, 30, 0.18);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.assert-text {
+    font-size: 12px;
+    padding: 5px;
+    font-family: 'Kiwi Maru', 'Iosevka Web', serif;
     text-align: center;
     color: white;
 }
