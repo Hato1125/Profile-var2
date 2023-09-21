@@ -1,4 +1,6 @@
 :root {
+    accent-color: rgba(250, 174, 20, 0.5);
+
     /* text styles */
     --textcolor: rgba(255, 255, 255, 0.85);
     --textfont: 'Iosevka Web', 'M PLUS Rounded 1c';
